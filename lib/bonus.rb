@@ -21,6 +21,9 @@ def bonus
   }
 
   #code your solution here:
+  #tv_show_characters["Mr. Rogers"][:hobbies][1] #=> "Singing songs"
+  epic_tragedy[:montague][:hero][:status] = "dead"
+  epic_tragedy[:capulet][:heroine][:status] = "dead"
 
   
 
